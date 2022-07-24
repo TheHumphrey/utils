@@ -1,0 +1,11 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheHumphrey/utils.git",
+  "author": "TheHumphrey <fernandob.delima@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
